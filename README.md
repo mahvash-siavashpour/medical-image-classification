@@ -18,5 +18,5 @@ For the purpose of designing a model capable of learning to categorize x-ray ima
 The digram of the training process in the 5 epochs is depicted below:<br>
 ![training digram](https://github.com/mahvash-siavashpour/medical-image-classification/blob/main/history.png?raw=true)
 
-The in-depth summary of the metrics is as follow:
+The in-depth summary of the metrics is as follow: <br>
 ![result](https://github.com/mahvash-siavashpour/medical-image-classification/blob/main/result.png?raw=true)
